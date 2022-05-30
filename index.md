@@ -7,17 +7,6 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 ### Codes
 
-
-
-### Math Explained
-
-
-```markdown
-- bullet
-
-1. Numbered
-2. List
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
+| Project | Codes | Math Explained |
+| ----------- | ----------- | ----------- |
+| Place-cell capacity and volatility with grid-like inputs |  | Perceptron SVM Multichoose|
