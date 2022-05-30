@@ -9,4 +9,8 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 | Project | Codes | Math Explained |
 | ----------- | ----------- | ----------- |
-| Place-cell capacity and volatility with grid-like inputs |  | Perceptron SVM Multichoose|
+| Place-cell capacity and volatility with grid-like inputs | [</>](https://github.com/myyim/placecellperceptron) | Perceptron SVM Multichoose|
+| Transforming the Choice Outcome to an Action Plan in Monkey Lateral Prefrontal Cortex: A Neural Circuit Model | [</>](https://github.com/myyim/placecellperceptron) | |
+| Intrinsic rescaling of granule cells restores pattern separation ability of a dentate gyrus network model during epileptic hyperexcitability | [</>](https://github.com/myyim/placecellperceptron) | |
+| Impact of intrinsic biophysical diversity on the activity of spiking neurons | [</>](https://github.com/myyim/placecellperceptron) | |
+|  | [</>](https://github.com/myyim/placecellperceptron) | |
