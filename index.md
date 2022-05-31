@@ -5,7 +5,7 @@ Hi there! I am Manyi Yim, currently a postdoctoral researcher at SMU. I am passi
 I am currently exploring new opportunities in the fields of Mathematical/Computational Modeling, Machine Learning and Data Science. I would love to talk about ideas. [Give me a shout: manyi.yim@gmail.com](manyi.yim@gmail.com).
 
 
-### Codes
+### Selected Projects
 
 | Project | Codes | Math Explained |
 | ----------- | ----------- | ----------- |
