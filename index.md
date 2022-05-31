@@ -9,9 +9,7 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 | Project | Codes | Math Explained |
 | ----------- | ----------- | ----------- |
-| Place-cell capacity and volatility with grid-like inputs | [Python](https://github.com/myyim/placecellperceptron) | Perceptron, SVM, Multichoose|
-
-| Transforming the Choice Outcome to an Action Plan in Monkey Lateral Prefrontal Cortex: A Neural Circuit Model | [Python / MATLAB]() | |
-| Intrinsic rescaling of granule cells restores pattern separation ability of a dentate gyrus network model during epileptic hyperexcitability | [</>](https://github.com/myyim/placecellperceptron) | |
-| Impact of intrinsic biophysical diversity on the activity of spiking neurons | [</>](https://github.com/myyim/placecellperceptron) | |
-|  | [</>](https://github.com/myyim/placecellperceptron) | |
+| Place-cell capacity and volatility with grid-like inputs ([eLife](https://elifesciences.org/articles/62702)) | [Python](https://github.com/myyim/placecellperceptron) | Perceptron, SVM, Multichoose |
+| Transforming the Choice Outcome to an Action Plan in Monkey Lateral Prefrontal Cortex: A Neural Circuit Model ([Neuron](https://www.sciencedirect.com/science/article/pii/S0896627319304854)) | [Python / MATLAB](https://github.com/myyim/LPFC) | DBSCAN, PCA |
+| Intrinsic rescaling of granule cells restores pattern separation ability of a dentate gyrus network model during epileptic hyperexcitability ([Hippocampus](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.22373) / [Springer](https://link.springer.com/chapter/10.1007/978-3-319-99103-0_23))| [NEURON / MATLAB](https://github.com/myyim/DG_pattern_separation) | - |
+| Impact of intrinsic biophysical diversity on the activity of spiking neurons | [Python](https://github.com/myyim/LIF) | Numerical Integration |
