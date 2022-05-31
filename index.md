@@ -9,7 +9,7 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 | Project | Codes | Math Explained |
 | ----------- | ----------- | ----------- |
-| Place-cell capacity and volatility with grid-like inputs ([eLife](https://elifesciences.org/articles/62702)) | [Python](https://github.com/myyim/placecellperceptron) | Perceptron, SVM, Multichoose |
+| Place-cell capacity and volatility with grid-like inputs ([eLife](https://elifesciences.org/articles/62702)) | [Python](https://github.com/myyim/placecellperceptron) | Perceptron, SVM, [Multichoose](https://github.com/myyim/multichoose) |
 | Transforming the Choice Outcome to an Action Plan in Monkey Lateral Prefrontal Cortex: A Neural Circuit Model ([Neuron](https://www.sciencedirect.com/science/article/pii/S0896627319304854)) | [Python / MATLAB](https://github.com/myyim/LPFC) | DBSCAN, PCA |
 | Intrinsic rescaling of granule cells restores pattern separation ability of a dentate gyrus network model during epileptic hyperexcitability ([Hippocampus](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.22373) / [Springer](https://link.springer.com/chapter/10.1007/978-3-319-99103-0_23))| [NEURON / MATLAB](https://github.com/myyim/DG_pattern_separation) | - |
 | Impact of intrinsic biophysical diversity on the activity of spiking neurons ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.87.032710)) | [Python](https://github.com/myyim/LIF) | Numerical Integration |
