@@ -6,8 +6,17 @@
 <meta name="keywords" content="DBSCAN">
 </head>
 <body>
-<img src="lpfc_data.jpg">
+I was given the LPFC neural activity data collected from macaques in a decision-making task (<a href="https://www.sciencedirect.com/science/article/pii/S0896627319304854"> Yim et. al., 2019 </a>).
+We wanted to know how the activity of those neurons changed during task and whether some neurons responded in a similar manner. 
+We had developed a minimal computational model that could "perform" the task as the animals did.
+We determined the essential features based on the model and extracted the four features from each LPFC neuron.
+Each neuron can be represented by one point in the 4D space.  
   
-<img src="lpfc_dbscan.jpg">
+<img src="lpfc_data.png">
+
+Do they form clusters? Seems so. Do all neurons belong to a cluster? Seems not. There is noise.
+
+  
+<img src="lpfc_dbscan.png">
 </body>
 </html>
