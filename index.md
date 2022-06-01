@@ -7,7 +7,7 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 ## Selected Projects
 
-| Project | Codes | Math Explained |
+| Project | Codes | Math/Concept Explained |
 | ----------- | ----------- | ----------- |
 | Place-cell capacity and volatility with grid-like inputs ([eLife](https://elifesciences.org/articles/62702)) | [Python](https://github.com/myyim/placecellperceptron) | [SVM](https://github.com/myyim/myyim.github.io/blob/main/reference/SVM.pdf), [Perceptron](https://github.com/myyim/perceptron), [Multichoose](https://github.com/myyim/multichoose) |
 | Transforming the Choice Outcome to an Action Plan in Monkey Lateral Prefrontal Cortex: A Neural Circuit Model ([Neuron](https://www.sciencedirect.com/science/article/pii/S0896627319304854)) | [Python / MATLAB](https://github.com/myyim/LPFC) | [DBSCAN (clustering)](https://myyim.github.io/reference/dbscan.html) |
