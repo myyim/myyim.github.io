@@ -1,22 +1,25 @@
 <!doctype html>
 <html>
 <head>
-<title>DBSCAN example</title>
+<title>A DBSCAN example</title>
 <meta name="description" content="DBSCAN">
 <meta name="keywords" content="DBSCAN">
 </head>
 <body>
+<h2>Example: Unsupervised clustering using DBSCAN</h2>
 I was given the LPFC neural activity data collected from macaques in a decision-making task (<a href="https://www.sciencedirect.com/science/article/pii/S0896627319304854"> Yim et. al., 2019 </a>).
 We wanted to know how the activity of those neurons changed during task and whether some neurons responded in a similar manner. 
 We had developed a minimal computational model that could "perform" the task as the animals did.
 We determined the essential features based on the model and extracted the four features from each LPFC neuron.
 Each neuron can be represented by one point in the 4D space.  
-  
+<br>
 <img src="lpfc_data.png">
+<br>
+Do they form clusters? They seem to. Do all neurons belong to a certain cluster? Maybe not because some points are just not close to any potential clusters. What clustering method shall we use? 
+<br>
+The <i>k</i>-means clustering may not suit the purpose because all data points will be assigned to a cluster. We want to exclude outliers. In this case, we adopted density-based spatial clustering of applications with noise (DBSCAN). It is a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together, marking as outliers points that lie alone in low-density regions (see ).
 
-Do they form clusters? Seems so. Do all neurons belong to a cluster? Seems not. There is noise.
-
-  
+<br> 
 <img src="lpfc_dbscan.png">
 </body>
 </html>
