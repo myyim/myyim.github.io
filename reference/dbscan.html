@@ -13,13 +13,13 @@ We had developed a minimal computational model that could "perform" the task as 
 We determined the essential features based on the model and extracted the four features from each LPFC neuron.
 Each neuron can be represented by one point in the 4D space.  
 <br>
-<img src="lpfc_data.png">
+<img src="lpfc_data.png" height="300">
 <br>
 Do they form clusters? They seem to. Do all neurons belong to a certain cluster? Maybe not because some points are just not close to any potential clusters. What clustering method shall we use? 
 <br>
 The <i>k</i>-means clustering may not suit the purpose because all data points will be assigned to a cluster. We want to exclude outliers. In this case, we adopted density-based spatial clustering of applications with noise (DBSCAN). It is a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together, marking as outliers points that lie alone in low-density regions (see ).
 
 <br> 
-<img src="lpfc_dbscan.png">
+<img src="lpfc_dbscan.png" height="300">
 </body>
 </html>
