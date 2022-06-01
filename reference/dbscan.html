@@ -7,19 +7,26 @@
 </head>
 <body>
 <h2>Example: Unsupervised clustering using DBSCAN</h2>
-I was given the LPFC neural activity data collected from macaques in a decision-making task (<a href="https://www.sciencedirect.com/science/article/pii/S0896627319304854"> Yim et. al., 2019 </a>).
+
+I was given the LPFC neural activity data collected from macaques in a decision-making task (<a href="https://www.sciencedirect.com/science/article/pii/S0896627319304854">Yim et. al., 2019</a>).
 We wanted to know how the activity of those neurons changed during task and whether some neurons responded in a similar manner. 
 We had developed a minimal computational model that could "perform" the task as the animals did.
 We determined the essential features based on the model and extracted the four features from each LPFC neuron.
-Each neuron can be represented by one point in the 4D space.  
-<br>
-<img src="lpfc_data.png" height="300">
-<br>
-Do they form clusters? They seem to. Do all neurons belong to a certain cluster? Maybe not because some points are just not close to any potential clusters. What clustering method shall we use? 
-<br>
-The <i>k</i>-means clustering may not suit the purpose because all data points will be assigned to a cluster. We want to exclude outliers. In this case, we adopted density-based spatial clustering of applications with noise (DBSCAN). It is a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together, marking as outliers points that lie alone in low-density regions (see ).
-
-<br> 
-<img src="lpfc_dbscan.png" height="300">
+Each neuron can be represented by one point in the 4D feature space.  
+<br><br>
+<img src="lpfc_data.png" height="250">
+<br><br>
+Do they form clusters? They seem to. Do all neurons belong to a certain cluster? Maybe not. What clustering method shall we use? The <i>k</i>-means clustering may not suit our purpose because we want to exclude outliers. In this case, we used <b>density-based spatial clustering of applications with noise (DBSCAN)</b>. It is <b>a density-based clustering non-parametric algorithm: given a set of points in some space, it groups together points that are closely packed together, marking as outliers points that lie alone in low-density regions</b> (see <a href="https://en.wikipedia.org/wiki/DBSCAN">Wikipedia</a>). DBSCAN requires two parameters: the radius of a neighborhood with respect to some point (eps) and the minimum number of points required to form a dense region (minPts). 
+<br><br>
+Scikit-learn, a machine learning library for the Python programming language, has an implementation of <a href="https://scikit-learn.org/stable/modules/generated/sklearn.cluster.DBSCAN.html">DBSCAN</a>.
+<br><br>
+<code>
+    from sklearn.cluster import DBSCAN <br>
+    db = DBSCAN(eps=eps, min_samples=minPts).fit(feature_data)
+    </code>
+<br><br>
+In this data set, the DBSCAN algorithm found 4 clusters. One can try different values of eps and minPts to see how the results differ.
+<br> <br>
+<img src="lpfc_dbscan.png" height="250">
 </body>
 </html>
