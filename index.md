@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-Y05EH5SXSJ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-Y05EH5SXSJ');
+</script>
+
 ## About me
 
 Hi there! I am Manyi Yim, currently a postdoctoral researcher at SMU. I am passionate about applying mathematical and computational models to address problems, and developing innovative and interdisciplinary approaches to problem-solving. Here I would like to share with you some of the projects I have been working on.
