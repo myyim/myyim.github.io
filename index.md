@@ -30,7 +30,7 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
-| Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python]([https://github.com/myyim/FaceNet/blob/main/manyi-facenet.ipynb](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb)) | PyTorch, scikit-learn, FaceNet |
+| Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
 
 
 ## Ongoing Scientific Research Project
