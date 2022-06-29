@@ -26,11 +26,12 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 
 
-## Ongoing Machine Learning Project
+## Machine Learning Project
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
 | Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
+| Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
 
 
 ## Ongoing Scientific Research Project
