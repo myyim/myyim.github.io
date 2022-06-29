@@ -26,7 +26,7 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 
 
-## Machine Learning Project
+## Machine Learning Projects
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
