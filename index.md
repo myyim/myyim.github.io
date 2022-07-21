@@ -10,9 +10,9 @@
 
 ## About me
 
-Hi there! I am Manyi Yim, currently a postdoctoral researcher at Southern Methodist University in Dallas, TX. I am passionate about applying mathematical and computational models to address problems, and developing innovative and interdisciplinary approaches to problem-solving. Here I would like to share with you some of the projects I have been working on.
+Hi there! I am Manyi Yim, currently a postdoctoral researcher at Southern Methodist University in Dallas, TX. Curious about human intelligence, animal cognition and how the brains work, I have been studying biological neural networks to gain insight into brain functions. Recently I am fascinated by the powers of artificial neural networks, especially in the fields of computer vision and natural language processing. In my free time, I have been taking online courses on machine learning and AI, mentoring students in a summer school and working on my own projects. I am passionate about applying mathematical and computational models to address problems, and developing innovative and interdisciplinary approaches to problem-solving. 
 
-I am currently exploring new opportunities in the fields of Mathematical/Computational Modeling, Machine Learning and Data Science. I would love to talk about ideas. Give me a shout: [manyi.yim@gmail.com](manyi.yim@gmail.com).
+Here I would like to share with you some of the projects I have been working on. Give me a shout: [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
 
 ## Selected Modeling & Data Analysis Projects
@@ -26,13 +26,15 @@ I am currently exploring new opportunities in the fields of Mathematical/Computa
 
 
 
-## Machine Learning Projects
+## Machine Learning / AI Projects
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
 | Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
 | Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
-
+| Sentiment Analysis using nltk | [Python]() | nltk, gradient descent, logistic regression |
+| Sentiment Analysis using a Trax neural network | [Python]() | Trax |
+| Sentiment Analysis using a Tensorflow bi-directional RNN | [Python]() | Tensorflow |
 
 ## Ongoing Scientific Research Project
 
