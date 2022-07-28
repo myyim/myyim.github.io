@@ -10,7 +10,7 @@
 
 ## About me
 
-Hi there! I am Manyi Yim, currently a postdoctoral researcher at Southern Methodist University in Dallas, TX. Curious about human intelligence, animal cognition and how the brains work, I have been studying biological neural networks to gain insight into brain functions. I am passionate about developing mathematical and computational models to address biological problems and establishing theories through data analysis. Additionally I am fascinated by the powers of artificial neural networks, especially in the fields of computer vision and natural language processing. I have been updating myself with the latest advancement on machine learning (ML), and working on ML projects. I am keen on developing innovative and interdisciplinary approaches to problem-solving. 
+Hi there! I am Manyi Yim, currently a postdoctoral researcher at Southern Methodist University in Dallas, TX. Curious about human intelligence, animal cognition and how the brains work, I have been studying biological neural networks to gain insight into brain functions. I develop mathematical and computational models to address biological problems and establish theories through data analysis. Additionally I am fascinated by the powers of artificial neural networks, especially in the fields of computer vision and natural language processing. I have been working on machine learning projects. I am keen on developing innovative and interdisciplinary approaches to problem-solving. 
 
 Here I would like to share with you some of the projects I have been working on. Give me a shout: [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
