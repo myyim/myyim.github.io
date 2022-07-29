@@ -33,7 +33,7 @@ Here I would like to share with you some of the projects I have been working on.
 | Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
 | Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
 | Sentiment Analysis using nltk | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_nltk_feature_extraction.ipynb) | NLTK, gradient descent, logistic regression |
-| Sentiment Analysis using a Tensorflow bi-directional RNN | [Python]() | Tensorflow, LSTM |
+| Sentiment Analysis using a Tensorflow bi-directional RNN | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_tf_biLSTM_glove.ipynb) | Tensorflow, LSTM, GloVe embeddings |
 
 ## Ongoing Scientific Research Project
 
