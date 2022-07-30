@@ -15,6 +15,16 @@ Hi there! I am Manyi Yim, currently a postdoctoral researcher at Southern Method
 Here I would like to share with you some of the projects I have been working on. Give me a shout: [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
 
+## Machine Learning / AI Projects
+
+| Project | Codes | Packages / References |
+| ----------- | ----------- | ----------- |
+| Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
+| Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
+| Sentiment Analysis using nltk | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_nltk_feature_extraction.ipynb) | NLTK, gradient descent, logistic regression |
+| Sentiment Analysis using a Tensorflow bi-directional RNN | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_tf_biLSTM_glove.ipynb) | Tensorflow, LSTM, GloVe embeddings |
+| Sentiment Analysis using BERT | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_transformers_gpu.ipynb) | Tensorflow, transformers, BERT |
+
 ## Selected Modeling & Data Analysis Projects
 
 | Project | Codes | Math/Concept Explained |
@@ -24,16 +34,6 @@ Here I would like to share with you some of the projects I have been working on.
 | Intrinsic rescaling of granule cells restores pattern separation ability of a dentate gyrus network model during epileptic hyperexcitability ([Hippocampus](https://onlinelibrary.wiley.com/doi/abs/10.1002/hipo.22373) / [Springer](https://link.springer.com/chapter/10.1007/978-3-319-99103-0_23))| [NEURON / MATLAB](https://github.com/myyim/DG_pattern_separation) | - |
 | Impact of intrinsic biophysical diversity on the activity of spiking neurons ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.87.032710)) | [Python](https://github.com/myyim/LIF) | [Numerical Integration](https://github.com/myyim/myyim.github.io/blob/main/reference/integration.md), [SDEs to Fokker-Planck Equation](https://github.com/myyim/myyim.github.io/blob/main/reference/SDEs_to_Fokker_Planck.pdf) |
 
-
-
-## Machine Learning / AI Projects
-
-| Project | Codes | Packages / References |
-| ----------- | ----------- | ----------- |
-| Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
-| Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
-| Sentiment Analysis using nltk | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_nltk_feature_extraction.ipynb) | NLTK, gradient descent, logistic regression |
-| Sentiment Analysis using a Tensorflow bi-directional RNN | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_tf_biLSTM_glove.ipynb) | Tensorflow, LSTM, GloVe embeddings |
 
 ## Ongoing Scientific Research Project
 
