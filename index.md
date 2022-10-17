@@ -14,7 +14,7 @@ Hi there! I am Manyi Yim.
 
 _"You're nothing but a pack of neurons." - Francis Crick_
 
-Do we have free will? Curious about human intelligence, cognition and how the brains work, I have been studying biological neural networks to gain insight into brain functions. I develop mathematical and computational models to address biological problems and establish theories through data analysis. Additionally I am fascinated by the powers of artificial neural networks, especially in the fields of natural language processing and computer vision. I have been working on machine learning projects. I am keen on developing innovative and interdisciplinary approaches to problem-solving. 
+Do we have free will? Curious about human intelligence, cognition and how the brains work, I have been studying biological neural networks to gain insight into brain functions. I develop mathematical and computational models to address biological problems and establish theories through data analysis. Additionally I am fascinated by the powers of artificial neural networks, especially in natural language processing and computer vision applications. I have been working on machine learning projects. I am keen on developing innovative and interdisciplinary approaches to problem-solving. 
 
 Here I would like to share with you some of the projects I have been working on. Give me a shout: [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
