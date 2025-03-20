@@ -10,19 +10,17 @@
 
 ## About me
 
-Hi there! I am Manyi Yim. 
+Hi there! I am Manyi Yim.
 
-_"You're nothing but a pack of neurons." - Francis Crick_
+Everything started from my curiousity about free will, human intelligence, cognition and how the brains work. I was studying biological neural networks to gain insight into brain functions. I developed mathematical and computational models to address biological problems and establish theories through data analysis. In recent years, I have been fascinated by the powers of artificial neural networks, especially in natural language processing and computer vision applications. I am keen on doing research on those topics, as well as developing innovative and interdisciplinary approaches to problem-solving. 
 
-Do we have free will? Curious about human intelligence, cognition and how the brains work, I have been studying biological neural networks to gain insight into brain functions. I develop mathematical and computational models to address biological problems and establish theories through data analysis. Additionally I am fascinated by the powers of artificial neural networks, especially in natural language processing and computer vision applications. I have been working on machine learning projects. I am keen on developing innovative and interdisciplinary approaches to problem-solving. 
-
-Here I would like to share with you some of the projects I have been working on. Give me a shout: [manyi.yim@gmail.com](manyi.yim@gmail.com).
-
+Here I would like to share with you some of the projects I have been working on. You can reach me at [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
 ## Machine Learning / AI Projects
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
+| Inference with Google Paligemma 2 Vision-Language Model (VLM) | [Python](https://huggingface.co/spaces/myyim/vlm_google_paligemma2_3b) | PyTorch, transformers, streamlit |
 | Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
 | Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
 | Sentiment Analysis using nltk | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_nltk_feature_extraction.ipynb) | NLTK, gradient descent, logistic regression |
@@ -39,7 +37,7 @@ Here I would like to share with you some of the projects I have been working on.
 | Impact of intrinsic biophysical diversity on the activity of spiking neurons ([PRE](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.87.032710)) | [Python](https://github.com/myyim/LIF) | [Numerical Integration](https://github.com/myyim/myyim.github.io/blob/main/reference/integration.md), [SDEs to Fokker-Planck Equation](https://github.com/myyim/myyim.github.io/blob/main/reference/SDEs_to_Fokker_Planck.pdf) |
 
 
-## Ongoing Scientific Research Project
+## Scientific Research Project
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
