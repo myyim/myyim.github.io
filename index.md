@@ -16,6 +16,12 @@ Everything started from my curiousity about free will, human intelligence, cogni
 
 Here I would like to share with you some of the projects I have been working on. You can reach me at [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
+## Ongoing Projects
+| Project | Codes | Packages / References |
+| ----------- | ----------- | ----------- |
+| Gemma 3 Multimodal Model|||
+| Correlation Structure in the Weights of Transformers across LLMs|||
+
 ## Machine Learning / AI Projects
 
 | Project | Codes | Packages / References |
