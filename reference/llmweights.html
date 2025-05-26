@@ -1,0 +1,53 @@
+<h2 id="correlations-in-weights-in-pretrained-small-language-models">Correlations in weights in pretrained small language models</h2>
+<h3 id="abstract">Abstract</h3>
+<p>Motivation:</p>
+<ol>
+<li>Multiple studies reported that pruning certain layers, or even entire blocks, in a pretrained LLM has a minimal impact on its performance, suggesting redundancy within their model architectures.</li>
+<li>Could we identify the redundancy within their model architectures by looking into the weights or correlation of weights?</li>
+<li>Could we better understand the weights in different attention heads, along the layers, in attention and MLP layers?</li>
+</ol>
+<p>Theory:</p>
+<ol>
+<li>The resulting embedding in the attention layer is a function of the product of W_q and W_k, as well as the product of W_o and W_v.</li>
+<li>The MLP layer has the gated W_g and up W_u projection in parallel and then the two streams are combined with elementwise multiplication and fed into down W_d projection.</li>
+</ol>
+<p>Methods:</p>
+<p>For each model, we computed the correlation coefficient (cc) of the followings in each layer:</p>
+<ol>
+<li>W_q and W_k in different attention heads </li>
+<li>W_q and W_v in different attention heads</li>
+<li>W_k and W_v in different attention heads</li>
+<li>W_q^T·W_k and I in different attention heads</li>
+<li>W_o^T and W_v in different attention heads</li>
+<li>cc of W_o^T and W_v vs cc of W_q and W_k (M5 vs M1)</li>
+<li>W_g and W_u, W_g and W_d^T, W_u and W_d^T, W_u^+ and W_d</li>
+<li>W_d·W_g and I, W_d·W_u and I, W_d·(W_u^+)^T and I</li>
+</ol>
+<p>Observations:</p>
+<ol>
+<li>All the small pretrained language models we studied, ranging from 0.5B to 8B, have similar correlation structures.</li>
+<li>W_q and W_k have more significant correlation in the early layers.</li>
+<li>W_o^T and W_v have more significant correlation in the later layers.</li>
+<li>cc of W_o^T and W_v vs cc of W_q and W_k are negatively correlated.</li>
+<li>W_u and W_d^T show positive correlation in the early layers and negative correlation in the later layers.</li>
+<li>W_d·W_u is close to I in some intermediate layers.</li>
+</ol>
+<p>Future plans:</p>
+<ol>
+<li>Study how the correlation structures evolve during training by looking into different checkpoints</li>
+<li>Examine the changes of the correlation structures upon fine-tuning</li>
+<li>Explore the functional significance of layers and attention heads with different correlations by pruning techniques</li>
+<li>Investigate the correlation structures in larger language models</li>
+</ol>
+<p>Results:</p>
+<p><img src="gemma-2-2b-it.png" height="400" />
+<img src="Llama-3.2-1B-Instruct.png" height="400" />
+<img src="Llama-3.2-3B-Instruct.png" height="400" />
+<img src="Mistral-7B-Instruct-v0.3.png" height="400" />
+<img src="Qwen2.5-0.5B-Instruct.png" height="400" />
+<img src="Qwen2.5-1.5B-Instruct.png" height="400" />
+<img src="DeepSeek-R1-Distill-Llama-8B.png" height="400" />
+<img src="DeepSeek-R1-Distill-Qwen-1.5B.png" height="400" /></p>
+<hr>
+<p>My notes</p>
+<p><img src="note1.jpg" height="130" /><img src="note2.jpg" height="130" /><img src="note3.jpg" height="130" /></p>
