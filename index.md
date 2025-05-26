@@ -21,7 +21,7 @@ Here I would like to share with you some of the projects I have been working on.
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
 | Gemma 3 Multimodal Model|||
-| Correlation Structure in the Weights of Transformers across LLMs|||
+| Correlation Structure in the Weights of Transformers across LLMs||[Correlation](https://myyim.github.io/reference/llmweights.html)|
 
 ## Machine Learning / AI Projects
 
