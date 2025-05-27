@@ -12,7 +12,7 @@
 
 Hi there! I am Manyi Yim.
 
-Everything started from my curiousity about free will, human intelligence, cognition and how the brains work. I was studying biological neural networks to gain insight into brain functions. I developed mathematical and computational models to address biological problems and establish theories through data analysis. In recent years, I have been fascinated by the powers of artificial neural networks, especially in natural language processing and computer vision applications. I am keen on doing research on those topics, as well as developing innovative and interdisciplinary approaches to problem-solving. 
+Driven by an enduring curiosity about free will, human intelligence, and the intricacies of brain function, my early academic pursuits focused on biological neural networks. I leveraged mathematical and computational modeling, coupled with data analysis, to explore and theorize about brain mechanisms. My journey has since evolved, with recent years bringing a profound fascination with artificial neural networks (ANNs), especially their remarkable capabilities in natural language processing and computer vision. I am keen to pursue cutting-edge research in these areas to understand the inner workings of ANNs, developing innovative and interdisciplinary approaches to complex problem-solving.
 
 Here I would like to share with you some of the projects I have been working on. You can reach me at [manyi.yim@gmail.com](manyi.yim@gmail.com).
 
