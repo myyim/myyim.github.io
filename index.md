@@ -21,7 +21,7 @@ Here I would like to share with you some of the projects I have been working on.
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
 | A Python interface on the client end to run Ollama models on a server | Python | |
-| Correlation Structure in the Weights of Transformers across LLMs| [Python](https://github.com/myyim/llm_weights_correlation) |[Correlation](https://myyim.github.io/reference/llmweights.html)|
+| Correlation Structure in the Weights of Transformers across LLMs| [Python](https://github.com/myyim/llm_weights_correlation) | Correlation, Linear Algebra |
 
 ## Machine Learning / AI Projects
 
