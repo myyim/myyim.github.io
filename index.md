@@ -20,6 +20,7 @@ Here I would like to share with you some of the projects I have been working on.
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
+| An offline translator for travel | Python |  |
 | Build a mini-transformer | Python | Transformer Architecture, Tokenizer |
 | A Python interface on the client end to run Ollama models on a server | Python | Requests |
 | Correlation Structure in the Weights of Transformers across LLMs| Python | Correlation, Linear Algebra |
@@ -28,7 +29,7 @@ Here I would like to share with you some of the projects I have been working on.
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
-| Build a Nutrition App Powered by Google Gemma 3n | [Python](https://github.com/myyim/nutritionApp) | [mlx_vlm + Streamlit](https://medium.com/p/9a8226671043) |
+| A Nutrition App Powered by Google Gemma 3n | [Python](https://github.com/myyim/nutritionApp) | [mlx_vlm + Streamlit](https://medium.com/p/9a8226671043) |
 | REST API with Docker to serve Ollama models on Hugging Face Spaces| [Docker + Bash](https://huggingface.co/spaces/myyim/docker_ollama_model) | [Docker + Bash + Ollama](https://medium.com/@manyi.yim/build-a-rest-api-to-serve-a-llm-with-ollama-on-hugging-face-spaces-1f5d8f871887)|
 | Gemma 3 Multimodal Model| [Python](https://github.com/myyim/multimodal_ollama_streamlit) | [Ollama + Streamlit](https://medium.com/@manyi.yim/run-a-vlm-or-a-multimodal-model-with-streamlit-and-ollama-api-2401875460af)|
 | Inference with Google Paligemma 2 Vision-Language Model (VLM) | [Python](https://huggingface.co/spaces/myyim/vlm_google_paligemma2_3b) | PyTorch, transformers, streamlit |
