@@ -30,14 +30,20 @@ Here I would like to share with you some of the projects I have been working on.
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
 | A Nutrition App Powered by Google Gemma 3n | [Python](https://github.com/myyim/nutritionApp) | [mlx_vlm + Streamlit](https://medium.com/p/9a8226671043) |
-| REST API with Docker to serve Ollama models on Hugging Face Spaces| [Docker + Bash](https://huggingface.co/spaces/myyim/docker_ollama_model) | [Docker + Bash + Ollama](https://medium.com/@manyi.yim/build-a-rest-api-to-serve-a-llm-with-ollama-on-hugging-face-spaces-1f5d8f871887)|
 | Gemma 3 Multimodal Model| [Python](https://github.com/myyim/multimodal_ollama_streamlit) | [Ollama + Streamlit](https://medium.com/@manyi.yim/run-a-vlm-or-a-multimodal-model-with-streamlit-and-ollama-api-2401875460af)|
 | Inference with Google Paligemma 2 Vision-Language Model (VLM) | [Python](https://huggingface.co/spaces/myyim/vlm_google_paligemma2_3b) | PyTorch, transformers, streamlit |
 | Facial Recognition using FaceNet-PyTorch: Can my face be recognized? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-classify.ipynb) | PyTorch, scikit-learn, FaceNet |
 | Facial Tracking using FaceNet-PyTorch: Can my face be tracked? | [Python](https://github.com/myyim/FaceNet/blob/main/manyi-facenet-tracking.ipynb) | PyTorch, FaceNet |
-| Sentiment Analysis using nltk | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_nltk_feature_extraction.ipynb) | NLTK, gradient descent, logistic regression |
+| Sentiment Analysis using NLTK | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_nltk_feature_extraction.ipynb) | NLTK, gradient descent, logistic regression |
 | Sentiment Analysis using a Tensorflow bi-directional RNN | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_tf_biLSTM_glove.ipynb) | Tensorflow, LSTM, GloVe embeddings |
 | Sentiment Analysis using BERT | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_transformers_gpu.ipynb) | Tensorflow, transformers, BERT |
+
+## Backend Development & DevOps
+
+| Project | Codes | Packages / References |
+| ----------- | ----------- | ----------- |
+| Hosting Apps on Hugging Face Space Without Sharing Code | [Python](https://medium.com/@manyi.yim/hosting-apps-on-hugging-face-space-without-sharing-code-0cc1d4f02d8a) | requests, types, os | 
+| REST API with Docker to serve Ollama models on Hugging Face Spaces| [Docker + Bash](https://huggingface.co/spaces/myyim/docker_ollama_model) | [Docker + Bash + Ollama](https://medium.com/@manyi.yim/build-a-rest-api-to-serve-a-llm-with-ollama-on-hugging-face-spaces-1f5d8f871887)|
 
 ## Selected Modeling & Data Analysis Projects
 
