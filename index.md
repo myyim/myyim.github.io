@@ -20,7 +20,7 @@ Here I would like to share with you some of the projects I have been working on.
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
-| An offline app for travelers | [Python](https://huggingface.co/spaces/myyim/text2audio) | Text-to-audio: Docker + Streamlit + Kokoro  Translation: |
+| A personal AI Assistant | [Python](https://huggingface.co/spaces/myyim/text2audio) | Text-to-audio: Docker + Streamlit + Kokoro |
 | Build a mini-transformer | Python | Transformer Architecture, Tokenizer |
 | A Python interface on the client end to run Ollama models on a server | Python | Requests |
 | Correlation Structure in the Weights of Transformers across LLMs| Python | Correlation, Linear Algebra |
