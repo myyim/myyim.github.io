@@ -38,10 +38,11 @@ Here I would like to share with you some of the projects I have been working on.
 | Sentiment Analysis using a Tensorflow bi-directional RNN | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_tf_biLSTM_glove.ipynb) | Tensorflow, LSTM, GloVe embeddings |
 | Sentiment Analysis using BERT | [Python](https://github.com/myyim/sentimentanalysis/blob/main/tweetNLP_transformers_gpu.ipynb) | Tensorflow, transformers, BERT |
 
-## Backend Development & DevOps
+## Software Engineering
 
 | Project | Codes | Packages / References |
 | ----------- | ----------- | ----------- |
+| Public File Exchange in Ephemeral Storage on Hugging Face | [Python](https://huggingface.co/spaces/myyim/share) | [Gradio, Pandas](https://medium.com/@manyi.yim/public-file-exchange-in-ephemeral-storage-on-hugging-face-ce7e413575f8)|
 | Hosting Apps on Hugging Face Space Without Sharing Code | [Python](https://medium.com/@manyi.yim/hosting-apps-on-hugging-face-space-without-sharing-code-0cc1d4f02d8a) | requests, types, os | 
 | REST API with Docker to serve Ollama models on Hugging Face Spaces| [Docker + Bash](https://huggingface.co/spaces/myyim/docker_ollama_model) | [Docker + Bash + Ollama](https://medium.com/@manyi.yim/build-a-rest-api-to-serve-a-llm-with-ollama-on-hugging-face-spaces-1f5d8f871887)|
 
